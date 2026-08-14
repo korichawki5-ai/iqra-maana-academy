@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iqra-maana-ain-defla.netlify.app/sitemap.xml
